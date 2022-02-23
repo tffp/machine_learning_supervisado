@@ -6,6 +6,8 @@ Created on Fri Feb 18 16:08:54 2022
 @author: Teresa
 """
 
+prueba_cambio_comit = 0
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
