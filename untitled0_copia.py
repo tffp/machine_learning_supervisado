@@ -38,7 +38,7 @@ def update(param,devparam,l):
 
 l = 0.5  # esto creo que es lambda el parámetro de aprendizaje, no se con que criterio se elige
 ite = 100
-
+prueba= 0
 
 
 
